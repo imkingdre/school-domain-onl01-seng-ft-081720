@@ -23,4 +23,3 @@ def sort
     y.sort
   end
 end
-roster.sort
