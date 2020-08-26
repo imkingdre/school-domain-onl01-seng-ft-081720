@@ -21,4 +21,5 @@ end
 def sort
   new_hash = {}
   roster.each do |x, y|
-    new_hash[x]
+    new_hash[x] = y.sort
+    
