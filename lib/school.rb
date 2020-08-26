@@ -21,6 +21,6 @@ end
 def sort
   nu_hash = {}
   roster.each do |x, y|
-    new_hash[x] = y.sort
+    nu_hash[x] = y.sort
   end 
 end
