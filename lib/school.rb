@@ -25,3 +25,4 @@ def sort
   end
   new_hash
 end
+end
