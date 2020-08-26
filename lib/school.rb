@@ -10,7 +10,7 @@ class School
     roster[level] << student
   end
   def grade(level)
-    
+    roster.detect do 
     
   
 end
