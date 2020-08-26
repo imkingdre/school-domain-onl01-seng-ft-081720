@@ -24,3 +24,4 @@ def sort
     new_hash[x] = y.sort
   end 
 end
+school.sort
